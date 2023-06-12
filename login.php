@@ -49,7 +49,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-5">
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
-                                    <div class="card-header"><h3 class="text-center font-weight-light my-4">WEBSITE HACK PALING AMPUH, BJORKA PERNAH LOGIN DI SINI</h3></div>
+                                    <div class="card-header"><h3 class="text-center font-weight-light my-4">LOGIN COFFEE INVENTORY</h3></div>
                                     <div class="card-body">
                                         <form method="post">
                                             <div class="form-group">
@@ -68,7 +68,7 @@
                                             </div>
                                              <div class="form-group d-flex align-items-center justify-content-between mt-4 mb-0">
                                                 <!-- <a class="small" href="password.html">Forgot Password?</a> -->
-                                                <button class="btn btn-primary" href="index.html" name="login">PASTI MAU HACK ANTERJA KAN MASBRO?</button>
+                                                <button class="btn btn-primary" href="index.html" name="login">LOGIN</button>
                                             </div>
                                         </form>
                                     </div>
